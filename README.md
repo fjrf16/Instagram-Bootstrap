@@ -11,4 +11,6 @@ On the other hand, you can see the publicatioins in a post format, where the pub
 
 For both of views, you can always create a new post with a upper-right button and, of course, select the options of settings in your Instagram account.
 
+PD: The whole site is responsive, which means that you can view it on your computer as well as on your mobile phone!!
+
 ### ENJOY! :)
